@@ -193,6 +193,18 @@ a:hover {
   color: blue;
 }
 
+
+  
+#coffee:visited {
+  color: purple
+}
+
+
+#coffee:hover {
+  color: black; 
+}
+
+
 #ame {
   margin-bottom: 30px;
 }
