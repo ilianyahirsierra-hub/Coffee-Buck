@@ -108,7 +108,7 @@ ul {
 
 .image-menu {
   width: 100%;
-  max-width: 600px;
+  max-width: 100%;
   border-radius: 40px;
   box-shadow: 0 15px 30px rgba (0, 0, 0, 0.4);
   transition: transform 0.4s ease, box-shadow 0.4s ease;
@@ -121,14 +121,14 @@ ul {
 
 #background-image {
   border-radius: 80px;
-  height: 200%;
+  width: 100%;
+  height: auto;
   margin-top: 15px;
 }
 
 .image-menu:hover {
-  transform: scale (1.03);
-  trnasform: translateY(-4px);
-  box-shadow: 0 20px 40px rga(0, 0, 0, 0.6)
+  transform: scale (1.03) translateY(-4px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6)
 
 
 }
