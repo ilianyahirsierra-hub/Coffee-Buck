@@ -190,7 +190,7 @@ a:hover {
 }
 
 a:active {
-  color: green;
+  color: beige;
 }
 
 
@@ -210,7 +210,7 @@ a:active {
 }
 
 #coffee:active {
-  color: darkorange; 
+  color: darkred; 
 }
 
 
