@@ -186,8 +186,13 @@ a:visited {
 }
 
 a:hover {
-  color: lime;
+  color: blue;
 }
+
+a:active {
+  color: green;
+}
+
 
 #coffee {
   color: blue;
@@ -203,6 +208,13 @@ a:hover {
 #coffee:hover {
   color: black; 
 }
+
+#coffee:active {
+  color: darkorange; 
+}
+
+
+
 
 
 #ame {
