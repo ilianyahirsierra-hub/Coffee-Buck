@@ -117,8 +117,13 @@ ul {
   object-fit: cover;
   margin-top: 15px;
   padding: 20px;
+}
 
-
+.coffe {
+  display: block;
+  border-radius: 10PX;
+  width: 100%
+  max-width: 300px;
 }
 
 
