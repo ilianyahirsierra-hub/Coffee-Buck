@@ -25,6 +25,7 @@ p {
   font-size: 1.0rem;
   margin: 20px 0;
 }
+
 body {
   background: linear-gradient(135deg, peru 75%, burlywood 100%);
   display: flex;
@@ -75,11 +76,11 @@ ul {
 
 .price {
   display: block;
-  font-size: 4rem;
+  font-size: 5rem;
   text-align: center;
   margin-top: 40px;
   margin-bottom: 60px;
-  font-family: league-spartan, Calibri, 'Trebuchet MS', sans-serif;
+  font-family: Arial black,league-spartan, Calibri, 'Trebuchet MS', sans-serif;
   font-weight: bold;
 }
 #menu-title {
