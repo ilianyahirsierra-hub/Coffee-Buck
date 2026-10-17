@@ -76,10 +76,10 @@ ul {
 
 .price {
   display: block;
-  font-size: 5rem;
+  font-size: 3rem;
   text-align: center;
-  margin:60px;
-  font-family: Arial black,league-spartan, Calibri, 'Trebuchet MS', sans-serif;
+  margin-top:15px;
+  font-family: Arial black, Gadget, sans-serif, Calibri;
   font-weight: bold;
 }
 #menu-title {
