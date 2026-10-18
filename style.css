@@ -28,7 +28,6 @@ p {
 
 body {
   background: radial-gradient(circle at the center, peru 75%, burlywood 100%, sandybrown 50%);
-  background-attachment: fixed;
   display: flex;
   justify-content: center;
   color: black;
