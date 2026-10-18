@@ -39,7 +39,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 12px;
+  gap: 20px;
   padding: 15px 0;
 }
 
@@ -56,11 +56,11 @@ ul {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  padding: 20px 3%;
+  padding: 20px 8%;
   background-color: maroon;
   border-radius: 80px;
   border: 5px Solid wheat;
-  height: 75%;
+  height: 100%;
   margin-top: 40px;
 }
 
