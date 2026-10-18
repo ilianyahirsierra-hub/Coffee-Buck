@@ -27,12 +27,11 @@ p {
 }
 
 body {
-  background: linear-gradient(135deg, peru 75%, sandybrown 75%, burlywood 100);
+  background: linear-gradient(135deg, peru 75%, burlywood 100);
   display: flex;
   justify-content: center;
   color: black;
-  width: 300px;
-  height: 150px;
+  
 }
 
 
