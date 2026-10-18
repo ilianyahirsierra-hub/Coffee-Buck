@@ -31,7 +31,8 @@ body {
   display: grid;
   justify-content: center;
   color: black;
-
+  width: 300px;
+  height: 150px;
 }
 
 
