@@ -26,7 +26,7 @@ p {
   margin: 20px 0;
 }
 
-body {
+#inicio {
   background: linear-gradient(to right, peru 75%, sandybrown 75%, burlywood 100);
   display: grid;
   justify-content: center;
