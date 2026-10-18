@@ -27,7 +27,7 @@ p {
 }
 
 body {
-  background: radial-gradient(circle at the center, peru 75%, burlywood 100%, sandybrown 50%);
+  background: linear-gradient(to right, peru 75%, sandybrown 75%, burlywood 100);
   display: grid;
   justify-content: center;
   color: black;
