@@ -197,13 +197,10 @@ hr {
   color: white;
 }
 
-a:hover {
-  color: white;
+.btn a:hover {
+  color: pink;
 }
 
-#coffee {
-  color: blue;
-}
 
 #ame {
   margin-bottom: 30px;
