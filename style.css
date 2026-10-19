@@ -81,13 +81,15 @@ ul {
   font-family: Arial black, Gadget, sans-serif, Calibri;
   font-weight: bold;
 }
+
 #menu-title {
   font-family:'Gill Sans MT', 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 2rem;
   margin: 20px;
-  margin-bottom: 25px;
+
 
 }
+
   #see-menu {
   background-color: maroon;
   color: white;
