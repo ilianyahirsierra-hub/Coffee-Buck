@@ -107,9 +107,8 @@ ul {
   background-color: maroon;
   color: orange;
   text-decoration: none;
-  text-transform: upper;
+  text-transform: uppercase;
   font-weight: bold;
-  border: 1 solid black;
   border-radius: 50px;
 }
 
