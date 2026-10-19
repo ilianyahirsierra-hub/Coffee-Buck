@@ -100,7 +100,7 @@ ul {
 }
 
 .btn {
-  font-size: 1.5rem;
+  font-size: 2rem;
   padding: 12px 14px;
   margin-top: 1rem;
   display: inline-block;
@@ -212,7 +212,7 @@ img {
 
 }
 
-nav ul{
+nav ul {
 display: flex;
 flex-direct: column;
 align-items: center;
