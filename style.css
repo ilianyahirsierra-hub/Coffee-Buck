@@ -85,6 +85,23 @@ ul {
   font-family:'Gill Sans MT', 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 2rem;
   margin: 15px;
+
+
+  #see-menu {
+    ackground-color: maroon;
+  color: white;
+  font-size: 2rem;
+  padding: 12px 14px;
+  margin-top: 1rem;
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  border-radius: 50px;
+  }
+
+
+  
 }
 
 .start__title {
@@ -105,7 +122,7 @@ ul {
   margin-top: 1rem;
   display: inline-block;
   background-color: maroon;
-  color: orange;
+  color: white;
   text-decoration: none;
   text-transform: uppercase;
   font-weight: bold;
