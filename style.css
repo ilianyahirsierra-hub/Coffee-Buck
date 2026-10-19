@@ -104,12 +104,12 @@ ul {
   padding: 12px 14px;
   display: inline-block;
   background-color: maroon;
-  color: yellow;
+  color: peru;
   text-decoration: none;
   text-transform: upper;
   font-weight: bold;
   border: 1 solid black;
-  border-radius: 300px;
+  border-radius: 200px;
 }
 
 .image-menu {
@@ -198,7 +198,7 @@ hr {
 }
 
 .btn a:hover {
-  color: pink;
+  color: crimson;
 }
 
 
