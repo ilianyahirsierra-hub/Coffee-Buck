@@ -211,3 +211,15 @@ img {
   margin-bottom: 40px;
 
 }
+
+nav ul{
+display: flex;
+flex-direct: column;
+align-items: center;
+gap: 15px;
+list-style: none;
+padding: 0;
+background: none;
+
+  
+}
