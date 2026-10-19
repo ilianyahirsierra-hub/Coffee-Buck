@@ -203,13 +203,20 @@ hr {
 }
 
 
+
+#inicio:hover {
+  color: pink;
+}
+
+
+
+
 #ame {
   margin-bottom: 30px;
 }
 
 img {
   margin-bottom: 40px;
-
 }
 
 nav ul {
@@ -220,6 +227,4 @@ gap: 15px;
 list-style: none;
 padding: 0;
 background: none;
-
-  
 }
