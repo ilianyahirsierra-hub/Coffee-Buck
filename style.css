@@ -226,6 +226,7 @@ hr {
 
 
 .box {
+  display: inline-block;
   font-size: 2rem;
   padding: 12px 14px;
   margin-top: 1rem;
