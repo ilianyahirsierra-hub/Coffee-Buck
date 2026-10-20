@@ -35,8 +35,7 @@ body {
 
 
 .nav {
-  display: flex;
-  flex-direction: column;
+  display: inline-block;
   align-items: center;
   gap: 20px;
   padding: 15px 0;
