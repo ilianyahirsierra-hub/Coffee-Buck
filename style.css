@@ -225,7 +225,18 @@ hr {
 
 
 
-
+.box {
+  font-size: 2rem;
+  padding: 12px 14px;
+  margin-top: 1rem;
+  display: inline-block;
+  background-color: maroon;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  border-radius: 50px;
+}
 
 
 #ame {
