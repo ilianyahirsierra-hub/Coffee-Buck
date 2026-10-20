@@ -107,15 +107,15 @@ ul {
 }
 
 .start__title {
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 6rem;
+  font-family: Gill Sans, Gill Sans MT, Calibri, Trebuchet MS, sans-serif;
+  font-size: 2.5rem;
   margin-top: 40px;
   margin-bottom: 40px;
 }
 
 .start__description {
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 6rem;
+  font-family: Gill Sans, Gill Sans MT, Calibri, Trebuchet MS, sans-serif;
+  font-size: 2.5rem;
   margin: 40px;
 }
 
